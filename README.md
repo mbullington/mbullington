@@ -4,4 +4,4 @@ I'm a software developer who's passionate about building user interfaces. I buil
 
 I'm also a college student :school_satchel:, and contribute back to the open source community.
 
-You can check out my projects below, visit [my personal site](bullington.xyz), or [get in touch!](michael@bullington.xyz)
+You can check out my projects below, visit [my personal site](https://bullington.xyz), or [get in touch!](mailto:michael@bullington.xyz)
