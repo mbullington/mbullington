@@ -1,5 +1,7 @@
 ## Hi, I'm Michael!
 
-I'm a software developer who's passionate about building user interfaces. I currently work on Mapbox Studio. I have a deep (but not complete by any means!) knowledge of client-side JavaScript architecture :hammer:, mapping technologies :globe_with_meridians:, and am currently excited by Flutter :hatched_chick:. Fan of travel!
+[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
-You can check out my projects below, visit [my personal site](https://bullington.xyz), or [get in touch!](mailto:michael@bullington.xyz)
+I'm a software developer who's passionate about product design. I work on things mostly out of excitement and curiosity. Looking to make a positive impact in the world through computing.
+
+I currently work on Mapbox on Search, previously Mapbox Studio.  You can check out my projects below, visit [my personal site](https://bullington.xyz), or [get in touch!](mailto:michael@bullington.xyz)
